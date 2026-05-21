@@ -34,7 +34,7 @@ Applied three distinct statistical plots using Seaborn & Matplotlib:
 * **Clear Class Separation:** *Iris setosa* forms a completely distinct cluster, making it easily separable from the other two species based on sepal characteristics.
 * **Feature Spread:** *Iris virginica* displays the highest variance and the maximum values for sepal length.
 
-# 📑 AI/ML Internship - Task 2: Stock Price Prediction Using Linear Regression
+#  AI/ML Internship - Task 2: Stock Price Prediction Using Linear Regression
 
 This project focuses on predicting stock prices using historical market data fetched from Yahoo Finance (`yfinance`) and building a simple predictive model using Scikit-Learn.
 
