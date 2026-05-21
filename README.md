@@ -2,12 +2,15 @@
 
 # Task 1: Exploring and Visualizing a Simple Dataset
 1. Data Loading & Inspection:
+
  Loaded the dataset via Seaborn, exported it to a local CSV, and re-loaded it using Pandas (pd.read_csv).
 
 Inspected rows and columns using df.shape (150 rows, 6 columns) and df.columns.
 
-Checked first 5 rows (df.head()), data types (df.info()), and statistical summary (df.describe()). 
-2. Data Visualization
+Checked first 5 rows (df.head()), data types (df.info()), and statistical summary (df.describe()).
+
+2. Data Visualization:
+
 Applied three distinct statistical plots using Seaborn and Matplotlib:
 
 Scatter Plot: Analyzed the correlation between sepal_length and sepal_width categorized by flower species.
